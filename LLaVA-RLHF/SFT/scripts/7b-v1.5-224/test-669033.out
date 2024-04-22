@@ -1,0 +1,84 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061309
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 209715200
+open files                      (-n) 65535
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Tue Apr 16 17:30:12 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.129.03             Driver Version: 535.129.03   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla V100-SXM2-32GB           On  | 00000000:3D:00.0 Off |                    0 |
+| N/A   34C    P0              41W / 300W |      0MiB / 32768MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Python 3.10.14
+Setting ds_accelerator to cuda (auto detect)
+[2024-04-16 17:30:26,785] [WARNING] [runner.py:196:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected CUDA_VISIBLE_DEVICES=0: setting --include=localhost:0
+[2024-04-16 17:30:26,819] [INFO] [runner.py:555:main] cmd = /kuacc/users/dkukul19/.conda/envs/llava2/bin/python -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMF19 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py --deepspeed ./scripts/zero3.json --model_name_or_path /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVa-RLHF_model_checkpoints --version v1 --data_path /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/Data_json/mix-llava-sft90k-vqav2_83k-okvqa_16k-flickr_23k.json --image_folder /datasets/COCO/train2017 --vision_tower openai/clip-vit-large-patch14 --pretrain_mm_mlp_adapter /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/MM_projector/mm_projector.bin --mm_vision_select_layer -2 --mm_use_im_start_end False --mm_use_im_patch_token False --bf16 True --output_dir /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/output_directory --num_train_epochs 3 --per_device_train_batch_size 16 --per_device_eval_batch_size 16 --gradient_accumulation_steps 1 --evaluation_strategy no --save_strategy steps --save_steps 500 --save_total_limit 1 --learning_rate 2e-5 --weight_decay 0. --warmup_ratio 0.03 --lr_scheduler_type cosine --logging_steps 1 --tf32 True --model_max_length 1280 --gradient_checkpointing True --dataloader_num_workers 4 --lazy_preprocess True --report_to wandb --image_aspect_ratio pad
+Setting ds_accelerator to cuda (auto detect)
+[2024-04-16 17:30:40,434] [INFO] [launch.py:145:main] WORLD INFO DICT: {'localhost': [0]}
+[2024-04-16 17:30:40,435] [INFO] [launch.py:151:main] nnodes=1, num_local_procs=1, node_rank=0
+[2024-04-16 17:30:40,435] [INFO] [launch.py:162:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0]})
+[2024-04-16 17:30:40,436] [INFO] [launch.py:163:main] dist_world_size=1
+[2024-04-16 17:30:40,436] [INFO] [launch.py:165:main] Setting CUDA_VISIBLE_DEVICES=0
+Setting ds_accelerator to cuda (auto detect)
+Could not find the bitsandbytes CUDA binary at PosixPath('/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cuda118_nocublaslt.so')
+Could not load bitsandbytes native library: /kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cpu.so: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/bitsandbytes/cextension.py", line 109, in <module>
+    lib = get_native_library()
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/bitsandbytes/cextension.py", line 96, in get_native_library
+    dll = ct.cdll.LoadLibrary(str(binary_path))
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/ctypes/__init__.py", line 452, in LoadLibrary
+    return self._dlltype(name)
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/ctypes/__init__.py", line 374, in __init__
+    self._handle = _dlopen(self._name, mode)
+OSError: /kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cpu.so: cannot open shared object file: No such file or directory
+
+CUDA Setup failed despite CUDA being available. Please run the following command to get more information:
+
+python -m bitsandbytes
+
+Inspect the output of the command and see if you can locate CUDA libraries. You might need to add them
+to your LD_LIBRARY_PATH. If you suspect a bug, please take the information from python -m bitsandbytes
+and open an issue at: https://github.com/TimDettmers/bitsandbytes/issues
+
+Traceback (most recent call last):
+  File "/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py", line 1177, in <module>
+    train()
+  File "/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py", line 980, in train
+    model_args, data_args, training_args = parser.parse_args_into_dataclasses()
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/transformers/hf_argparser.py", line 338, in parse_args_into_dataclasses
+    obj = dtype(**inputs)
+  File "<string>", line 125, in __init__
+  File "/kuacc/users/dkukul19/.conda/envs/llava2/lib/python3.10/site-packages/transformers/training_args.py", line 1329, in __post_init__
+    raise ValueError(
+ValueError: Your setup doesn't support bf16/gpu. You need torch>=1.10, using Ampere GPU with cuda>=11.0
+[2024-04-16 17:31:03,470] [INFO] [launch.py:314:sigkill_handler] Killing subprocess 175771
+[2024-04-16 17:31:03,471] [ERROR] [launch.py:320:sigkill_handler] ['/kuacc/users/dkukul19/.conda/envs/llava2/bin/python', '-u', '/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py', '--local_rank=0', '--deepspeed', './scripts/zero3.json', '--model_name_or_path', '/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVa-RLHF_model_checkpoints', '--version', 'v1', '--data_path', '/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/Data_json/mix-llava-sft90k-vqav2_83k-okvqa_16k-flickr_23k.json', '--image_folder', '/datasets/COCO/train2017', '--vision_tower', 'openai/clip-vit-large-patch14', '--pretrain_mm_mlp_adapter', '/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/MM_projector/mm_projector.bin', '--mm_vision_select_layer', '-2', '--mm_use_im_start_end', 'False', '--mm_use_im_patch_token', 'False', '--bf16', 'True', '--output_dir', '/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/output_directory', '--num_train_epochs', '3', '--per_device_train_batch_size', '16', '--per_device_eval_batch_size', '16', '--gradient_accumulation_steps', '1', '--evaluation_strategy', 'no', '--save_strategy', 'steps', '--save_steps', '500', '--save_total_limit', '1', '--learning_rate', '2e-5', '--weight_decay', '0.', '--warmup_ratio', '0.03', '--lr_scheduler_type', 'cosine', '--logging_steps', '1', '--tf32', 'True', '--model_max_length', '1280', '--gradient_checkpointing', 'True', '--dataloader_num_workers', '4', '--lazy_preprocess', 'True', '--report_to', 'wandb', '--image_aspect_ratio', 'pad'] exits with return code = 1
