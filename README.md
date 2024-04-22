@@ -7,5 +7,5 @@ Follow these steps to get your development env running:
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/yourusername/projectname.git](https://github.com/dkukul19/NYCC.git)
+   git clone https://github.com/dkukul19/NYCC.git
    cd NYCC
