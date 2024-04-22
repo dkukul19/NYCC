@@ -9,3 +9,6 @@ Follow these steps to get your development env running:
    ```bash
    git clone https://github.com/dkukul19/NYCC.git
    cd NYCC
+2. **Install LLaVa**
+
+   Follow [LLaVa setup](./LLaVA-RLHF/llava_setup/) to get started with our project.
