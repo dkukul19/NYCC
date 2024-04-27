@@ -1,0 +1,18 @@
+[
+    {
+        "contest_number": 566,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nProvide a brief description of the cartoon image. Do not use more than 3 sentences.<|im_start|> assistant\nThis is a cartoon image featuring a man sitting in a wooden chair next to a barrel on a deck. He is wearing a hat and has a cat on his lap. In the background, two other men are standing on the deck. The image appears to be drawn in a sketch-like style with minimal color."
+    },
+    {
+        "contest_number": 186,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nProvide a brief description of the cartoon image. Do not use more than 3 sentences.<|im_start|> assistant\nThe image is a black and white cartoon drawing. In the center, an elderly figure with white hair and a beard is standing on a rocky hillside holding a scroll with Chinese characters. To the left, two people appear to be listening to the speaker. The background features a serene landscape with rolling hills and a calm body of water. The artwork is signed by \"Shanah,\" indicating the artist."
+    },
+    {
+        "contest_number": 571,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nProvide a brief description of the cartoon image. Do not use more than 3 sentences.<|im_start|> assistant\nThe image is a cartoon featuring a large anchor with a black and white color scheme, except for the anchor, which is depicted in shades of gray. The anchor is situated in what appears to be a bakery or caf\u00e9, with people engaged in various activities such as ordering, serving, and eating. The scene is whimsical with the anchor appearing to pierce through the floor, which is a humorous take on the phrase \"drop an anchor\", usually meaning to slow down or stop suddenly."
+    },
+    {
+        "contest_number": 704,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nProvide a brief description of the cartoon image. Do not use more than 3 sentences.<|im_start|> assistant\nIn the image, a man is standing in front of an elevator, seemingly surprised or upset as he gazes into the glass mirror of the elevator doors. The elevator is marked with the letters \"A\" and \"D,\" which are likely the floor designations. To the left of the elevator, there are two potted plants, adding a touch of green to the otherwise gray and white surroundings. The man's reflection can be seen in the mirror, giving a sense of depth to the scene. The overall style of the image suggests a whimsical, possibly humorous, take on a common urban scene."
+    }
+]
