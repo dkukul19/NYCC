@@ -1,50 +1,32 @@
-
-
 echo "Setting stack size to unlimited..."
 ulimit -s unlimited
 ulimit -l unlimited
 ulimit -a
 echo
 
-module load gcc/11.2.0
-module load cuda/11.8.0
-module load cudnn/8.2.0/cuda-11.X
-
 #export NCCP_P2P_DISABLE=1
-
-
-nvidia-smi
-python --version
-nvcc --version
-gcc --version
-# Uncomment and set the following variables correspondingly to run this script:
-#export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/kuacc/apps/cudnn/v8.0.4_CUDA_10.2/lib64
 
 #export CUDA_HOME=/usr/local/cuda
 #export PATH=$CUDA_HOME/bin:$PATH
 #export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH
 
-
-export HF_HOME=/shared/sheng/huggingface
-export TRANSFORMERS_CACHE=/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/cache
-
 ################## VICUNA ##################
 PROMPT_VERSION=v1
-MODEL_VERSION=vicuna-v1-5-7b
+MODEL_VERSION=vicuna-v1-3-7b
 ################## VICUNA ##################
-# change model version to 1.3
-################## LLaMA-2 ##################
-# PROMPT_VERSION="llava_llama_2"
-# MODEL_VERSION="llama-2-7b-chat"
-################## LLaMA-2 ##################
 
-LM_MODEL_CKPT=/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/LLaVA-RLHF_checkpoints_7b-1.3/vicuna-7b-v1.3
+LM_MODEL_CKPT=lmsys/vicuna-7b-v1.3
 ###/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVa-RLHF_model_checkpoints   #lmsys/vicuna-7b-v1.5
-MM_CKPT=/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/MM_projector/mm_projector.bin  #/shared/llava-$MODEL_VERSION-pretrain/mm_projector.bin
-DATA_PATH=/kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/Data_json/mix-llava-sft90k-vqav2_83k-okvqa_16k-flickr_23k.json
+MM_CKPT=../../../MM_projector/llava-pretrain-vicuna-7b-v1.3/mm_projector.bin  #/shared/llava-$MODEL_VERSION-pretrain/mm_projector.bin
+DATA_PATH=../../../data/new_data.json
 
-deepspeed /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py \
-    --deepspeed "../zero3.json" \
+LOCAL_RANK=0,1 CUDA_VISIBLE_DEVICES=0,1 \
+python -m torch.distributed.launch \
+    --use-env \
+    --nproc_per_node=2 \
+    --nnodes=1 \
+    --node-rank=0 \
+    ../../train/train.py \
     --model_name_or_path $LM_MODEL_CKPT \
     --version $PROMPT_VERSION \
     --data_path ${DATA_PATH} \
@@ -55,7 +37,7 @@ deepspeed /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
     --bf16 True \
-    --output_dir /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/output_directory \
+    --output_dir ../../../output_directory \
     --num_train_epochs 3 \
     --per_device_train_batch_size 1 \
     --per_device_eval_batch_size 1 \
@@ -70,7 +52,7 @@ deepspeed /kuacc/users/dkukul19/hpc_run/LLaVA-RLHF/LLaVA-RLHF/SFT/train/train.py
     --lr_scheduler_type "cosine" \
     --logging_steps 1 \
     --tf32 True \
-    --model_max_length 100 \
+    --model_max_length 50 \
     --gradient_checkpointing True \
     --dataloader_num_workers 4 \
     --lazy_preprocess True \

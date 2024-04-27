@@ -42,7 +42,6 @@ from transformers.trainer_utils import enable_full_determinism, set_seed
 
 from data_utils.data_utils_ppo import QueryResponseDataset
 import data_utils.common_utils as utils
-import models.distributed_utils as distributed_utils
 from models.trainer_utils import create_optimizer, create_scheduler
 
 from llava.constants import (

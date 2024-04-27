@@ -177,7 +177,7 @@ class AutoregressivePolicy(Policy):
             top_k=0,
             temperature=temperature,
             num_return_sequences=num_return_sequences,
-            synced_gpus=True,
+            synced_gpus=False,
         )
         responses = right_pad(
             sequences[:, queries.size(1) :],

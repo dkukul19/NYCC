@@ -434,11 +434,6 @@ def train():
         split_batches=False,  # Don't break a batch into smaller chunks.
         step_scheduler_with_optimizer=False,  # Untie optimizer and scheduler step.
         # Value model might not use all parameters (e.g., lm-head) in the forward pass.
-        kwargs_handlers=[
-            DistributedDataParallelKwargs(
-                find_unused_parameters=args.ddp_find_unused_parameters,
-            )
-        ],
     )
     dict_args = vars(args)
     # value should be one of int, float, str, bool, or torch.Tensor

@@ -99,7 +99,8 @@ class TrainingArguments(transformers.TrainingArguments):
         default=16,
         metadata={"help": "How many bits to use."}
     )
-    lora_enable: bool = False
+    lora_enable: bool = True
+    save_full_model: bool = False
     lora_r: int = 64
     lora_alpha: int = 16
     lora_dropout: float = 0.05
@@ -176,17 +177,33 @@ def find_all_linear_names(model):
 
 
 def safe_save_model_for_hf_trainer(trainer: transformers.Trainer,
-                                   output_dir: str):
+                                   output_dir: str, training_args: transformers.TrainingArguments):
     """Collects the state dict and dump to disk."""
+    model = trainer.model
+    if training_args.save_full_model and training_args.lora_enable:
+        base_model = trainer.model.merge_and_unload()
+        base_model.config.save_pretrained(output_dir)
+        base_model.save_pretrained(output_dir)
+        trainer.tokenizer.save_pretrained(output_dir)
+        return
 
+    print("BEFORE".center(80, "-"))
+    print(trainer.model)
+    print("-" * 80)
+
+    print()
+    print()
+    print("AFTER".center(80, "-"))
+    print(trainer.model)
+    print("-" * 80)
     if getattr(trainer.args, "tune_mm_mlp_adapter", False):
         # Only save Adapter
         keys_to_match = ['mm_projector']
         if getattr(trainer.args, "use_im_start_end", False):
             keys_to_match.extend(['embed_tokens', 'embed_in'])
 
-        weight_to_save = get_mm_adapter_state_maybe_zero_3(trainer.model.named_parameters(), keys_to_match)
-        trainer.model.config.save_pretrained(output_dir)
+        weight_to_save = get_mm_adapter_state_maybe_zero_3(model.named_parameters(), keys_to_match)
+        model.config.save_pretrained(output_dir)
 
         current_folder = output_dir.split('/')[-1]
         parent_folder = os.path.dirname(output_dir)
@@ -204,7 +221,7 @@ def safe_save_model_for_hf_trainer(trainer: transformers.Trainer,
         trainer.save_model(output_dir)
         return
 
-    state_dict = trainer.model.state_dict()
+    state_dict = model.state_dict()
     if trainer.args.should_save:
         cpu_state_dict = {
             key: value.cpu()
@@ -644,14 +661,18 @@ class LazySupervisedDataset(Dataset):
         assert len(sources) == 1, "Don't know why it is wrapped to a list"  # FIXME
         if 'image' in sources[0]:
             image_file = self.list_data_dict[i]['image']
-            #image_file = 'COCO_train2014_' + self.list_data_dict[i]['image']
-            # image_folder = self.data_args.image_folder
+          
             if 'task' in sources[0]:
                 image_folder = '/nobackup/users/yikangs/zhiqings/vlm/data/lrv_images/'
+                image_path = os.path.join(image_folder, image_file)
+            elif image_file.startswith("/kuacc"):
+                image_path = image_file
             else:
                 image_folder = self.data_args.image_folder
+                image_path = os.path.join(image_folder, image_file)
+              
             processor = self.data_args.image_processor
-            image = Image.open(os.path.join(image_folder, image_file)).convert('RGB')
+            image = Image.open(image_path).convert('RGB')
             if self.data_args.image_aspect_ratio == 'pad':
                 def expand2square(pil_img, background_color):
                     width, height = pil_img.size
@@ -731,14 +752,17 @@ class LazyM3ITSupervisedDataset(Dataset):
         assert len(sources) == 1, "Don't know why it is wrapped to a list"  # FIXME
         if 'image' in sources[0]:
             image_file = self.llava_list_data_dict[i]['image']
-            #image_file = 'COCO_train2014_' + self.list_data_dict[i]['image']
-            # image_folder = self.data_args.image_folder
+          
             if 'task' in sources[0]:
                 image_folder = '/nobackup/users/yikangs/zhiqings/vlm/data/lrv_images/'
+                image_path = os.path.join(image_folder, image_file)
+            elif image_file.startswith("/kuacc"):
+                image_path = image_file
             else:
                 image_folder = self.data_args.image_folder
+                image_path = os.path.join(image_folder, image_file)
             processor = self.data_args.image_processor
-            image = Image.open(os.path.join(image_folder, image_file)).convert('RGB')
+            image = Image.open(image_path).convert('RGB')
             if self.data_args.image_aspect_ratio == 'pad':
                 def expand2square(pil_img, background_color):
                     width, height = pil_img.size
@@ -1002,7 +1026,6 @@ def train():
 
     if model_args.vision_tower is not None:
         if 'mpt' in model_args.model_name_or_path:
-            print('here 1')
             config = transformers.AutoConfig.from_pretrained(model_args.model_name_or_path, trust_remote_code=True)
             config.attn_config['attn_impl'] = training_args.mpt_attn_impl
             model = LlavaMPTForCausalLM.from_pretrained(
@@ -1013,8 +1036,6 @@ def train():
                 **bnb_model_from_pretrained_args
             )
         else:
-            print('here 2')
-            print(bnb_model_from_pretrained_args)
             model = LlavaLlamaForCausalLM.from_pretrained(
                 model_args.model_name_or_path,
                 cache_dir=training_args.cache_dir,
@@ -1022,7 +1043,6 @@ def train():
                 **bnb_model_from_pretrained_args,
             )
     else:
-        print('here 3')
         model = transformers.LlamaForCausalLM.from_pretrained(
             model_args.model_name_or_path,
             cache_dir=training_args.cache_dir,
@@ -1165,7 +1185,7 @@ def train():
         trainer.train()
     trainer.save_state()
 
-    if training_args.lora_enable:
+    if training_args.lora_enable and not training_args.save_full_model:
         state_dict = get_peft_state_maybe_zero_3(
             model.named_parameters(), training_args.lora_bias
         )
@@ -1177,8 +1197,7 @@ def train():
             model.save_pretrained(training_args.output_dir, state_dict=state_dict)
             torch.save(non_lora_state_dict, os.path.join(training_args.output_dir, 'non_lora_trainables.bin'))
     else:
-        safe_save_model_for_hf_trainer(trainer=trainer,
-                                       output_dir=training_args.output_dir)
+        safe_save_model_for_hf_trainer(trainer=trainer, output_dir=training_args.output_dir, training_args=training_args)
 
 
 if __name__ == "__main__":
