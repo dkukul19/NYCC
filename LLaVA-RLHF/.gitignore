@@ -157,7 +157,10 @@ RLHF/scripts/7b-v1.5-224/download.py
 RLHF/scripts/7b-v1.5-224/sbatch_download.sh
 MM_projector/
 RLHF/data/*
-data/
+data/*.json
+data/*.parquet
+data/.ipynb_checkpoints
+data/explanation_images
 demo/qa90_llava_rlhf_answer.jsonl
 demo/qa90_questions.jsonl
 init_model/
