@@ -1,0 +1,802 @@
+[
+    {
+        "contest_number": 159,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Six friends enjoying coffee together in a cozy coffee shop.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA group of coffee enthusiasts, drawn in a unique style, gather around a table of steaming mugs, basking in the warmth of the cups.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA gathering of people with large cups of coffee, engaged in various poses of conversation or absorption.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Around the Coffee Pot: A Gathering of Colleagues\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Coffee Break Conclave,\" a cartoon depiction of office workers gathered around a coffee table in their cubicles."
+    },
+    {
+        "contest_number": 375,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cartoon depicting two characters sitting in a chair: one wearing glasses and reading a book, and the other sleeping with their feet propped up.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man sitting next to a reclining woman, both appear relaxed.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts two whimsical cartoon figures: one standing with a long body resembling a piece of folded paper and the other lying down in a relaxed pose. The standing figure appears to be reading, while the lying figure is depicted with a content smile. This black-and-white drawing captures a charming moment of leisure and curiosity.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo quirky figures, one reading, one lounging, in a cozy setting.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon of a couch that is anthropomorphized and has a human-like body sitting next to it, both of them smiling contentedly."
+    },
+    {
+        "contest_number": 22,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A group of people engaged in a lively discussion at a meeting.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cartoon depicting a group of professionals engaged in a meeting or discussion.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Raising Hands in Meeting\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Brainstorming Session\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A group of people raising their hands in a meeting.\""
+    },
+    {
+        "contest_number": 189,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Painful Situation: A cartoon depicting a doctor with needles sticking out of his back performing a procedure on a patient.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAn unusual and humorous doctor-patient interaction, where the doctor's face has multiple protruding needles and the woman appears unphased, even relaxed, lying on the table.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image appears to be a black-and-white cartoon depicting a person lying on a bed and another person standing over them. The standing figure has numerous spikes or thorns coming out of their back, and is holding what seems to be a hammer or a tool with spikes. The scene might be interpreted as a metaphor for a situation where one person is metaphorically \"beating\" or burdening the other with their problems or issues. The initials \"Da\" are also visible in the lower right corner, which could be the signature of the artist or the character's initials.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a person in a doctor's coat holding a syringe with a worried expression, pointing it at a patient lying on a couch with an expression of dread.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Intense Acupuncture Session.\""
+    },
+    {
+        "contest_number": 592,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office workers in a meeting room where all the attendees are replaced with birds.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Employees in cubicles being observed by their supervisors, who are looking on from above.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office workers look on as a flock of birds flies through the office, evoking a sense of chaos in an otherwise structured environment.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Birds: A Modern Day Tale of Workplace Exhaustion\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Audience's Silent Judgment\""
+    },
+    {
+        "contest_number": 522,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis cartoon depicts a mad scientist's laboratory, complete with a patient strapped to a table and a scientist performing an experiment. The setting is filled with various equipment and scientific paraphernalia, adding to the overall \"mad scientist\" theme. The illustration is detailed and whimsical, capturing the essence of a classic science fiction scenario.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mad Science Experiment in Progress\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo mad scientists perform a daring medical experiment on a patient in a Frankenstein-like lab setting.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Scientist Observing an Experiment with a Young Assistant.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a surreal scene with a man tied to a wheel, a child playing with a skull, and a character in a lab coat observing with a contemplative pose."
+    },
+    {
+        "contest_number": 128,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cozy room where a giant dog is the couch, and the occupants are reading in comfort.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An oversized dog interrupts a couple's quiet evening.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An Unusual Living Room Sitting\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Quiet Conversation: People, Dog, and a Lamp\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A tranquil scene of an oversized dog sharing a moment with a man and a woman, suggesting companionship in a cozy setting.\""
+    },
+    {
+        "contest_number": 31,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Cow on the barstool.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA bull at the bar with two men.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA surreal scene at a bar where one of the patrons is a man with a bull's head, being served by a bartender, while another customer looks on.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo people and a cow in a bar setting.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Bar scene with human-like animals and patrons, where one character is depicted as a bison sitting at the bar.\""
+    },
+    {
+        "contest_number": 745,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA giant snail ruins a city, two people look on.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unexpected encounter in an urban setting.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon of a giant dinosaur rampaging through a city, with people observing the chaos.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Examining the Evidence: An Unusual Urban Encounter\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mammoth in the City: A Modern Encounter with a Prehistoric Beast\""
+    },
+    {
+        "contest_number": 247,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Delivery of 'Monkeys' in a barrel.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo men and a barrel of \"Monkeys.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two men, one with a clipboard, standing in a living room, facing a barrel with the word 'MONKEYS' on it.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two men interacting with a barrel labeled 'Monkeys'\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A delivery man and the man of the house inspect a delivery of \"Monkeys\" beer.\""
+    },
+    {
+        "contest_number": 608,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAn organist seated at an organ in a church, with an attentive clergy figure and ornate Gothic architecture in the background.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe black-and-white sketch features a cartoon of a pipe organ with a pipe organist playing, a conductor or choirmaster observing from the left, and a cathedral or church-like background with stained glass windows.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Inside the Organist's Domain: A Moment of Musical Focus.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA person stands in awe in front of a grand pipe organ, a musician sits ready to play.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nOrganist performing in an impressive church."
+    },
+    {
+        "contest_number": 344,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"New York City Sightseeing from the Statue of Liberty.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"City life from a unique viewpoint\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon scene depicting a group of people sitting on a giant eagle statue, overlooking a cityscape with iconic skyscrapers.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Business colleagues sitting on a statue's arms, seemingly unaware of the danger and the iconic city backdrop.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Cityscape Perch\": A sketch featuring a man precariously hanging from the underside of a giant hand statue, with a city skyline in the background, including the Empire State Building."
+    },
+    {
+        "contest_number": 112,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Abandoned Weapon in a Deserted Landscape.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An Abandoned Gun's Tale in the Desert\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Deserted Relics: When technology meets the wild.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Abandoned Relic in a Desert-like Environment\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA lone gun resting on a rocky ground with mountains in the background and two silhouettes approaching."
+    },
+    {
+        "contest_number": 595,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a scene in a clothing store, featuring a snowman-like character, a shopper, and a store attendant.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Clothing Caper: A fun winter scene with a snowman, a mannequin, and two customers in a clothing store.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon depicting a snowman shopping for clothes alongside two people, with a display of folded clothes nearby.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts three individuals shopping: one is a snowman character, another is a woman with a baggy eye, and the third is a well-dressed person looking at a mannequin. They are in a store with hanging garments and a large pile of folded clothes in the background.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nWinter Scene: Snowman with pipe, two women at a clothing display, piles of bundled-up clothing on round tables."
+    },
+    {
+        "contest_number": 437,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Surprising Sight in the Backyard.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAn unexpected event unfolds, where an elephant, seemingly materialized from thin air, is caught mid-jump to grab a snack from a bird feeder. Two people standing nearby are shocked by the unusual sight.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Elephant Unleashed: A Quirky Black and White Cartoon Sketch\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprise at the Elephant-Chicken Mix-Up\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA surreal scene with a couple observing a bird defying gravity as it holds up a falling elephant with its legs."
+    },
+    {
+        "contest_number": 125,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon shows a group of people lying in bed, staring at a box, which could be a metaphor for being absorbed in technology, such as watching television or using electronic devices, at the expense of social interaction or personal connection.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Relaxation Overload: The Ultimate Sleepover\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Coziness in Quarantine\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Lounging on the couch in front of the TV, fully clothed.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Late-night movie marathon in bed.\""
+    },
+    {
+        "contest_number": 65,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe black and white sketch cartoon depicts a group of people sitting around a table, engaged in a meeting. Some of the individuals appear to be listening intently, while others are engaged in a discussion. The room is furnished with a large monitor displaying a map, suggesting that the meeting may be of strategic or planning nature. The overall mood of the cartoon seems to be serious and focused.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A boardroom meeting with robots and humans\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a group of robots having a serious meeting at a conference table, with one robot standing up, seemingly leading the discussion or making a point.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unusual gathering of robotic and human office workers in a conference room setting.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA business meeting in progress with a robot as a participant."
+    },
+    {
+        "contest_number": 246,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nGroup of men in suits sitting around a conference table in a boardroom meeting.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image is a black-and-white sketch of a group of people in a meeting. They are sitting around a table that has papers and a coffee cup on it. There's a sense of interaction, with some individuals appearing to be actively engaged in conversation. One person is looking at a phone. The setting seems to be a casual office or conference room environment.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Executive meeting\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a group of people in a meeting setting, suggesting a business or professional environment. The characters are portrayed in a cartoon style, highlighting various expressions and postures. The scene appears to be a discussion or negotiation, with papers and a lamp indicating a serious work session.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Group of business people engaged in a meeting at a table with papers and cups of coffee.\""
+    },
+    {
+        "contest_number": 742,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis black-and-white sketch cartoon depicts a lively scene in a room where a chef is preparing food on a grill, a woman is observing or possibly awaiting a treat, and two people are engaged in conversation in the background, one with his hands on his hips and the other with his hands clasped behind his back. On the left, a boy in a baseball cap seems to be joining the cook, holding a plate. The room is decorated with wall art, and the atmosphere suggests a casual gathering or event.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene in an art gallery where an artist points out his work to a gallery patron, a chef grills food for an eager child, and a couple admires a painting.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis black-and-white sketch captures a whimsical scene set in a room where a chef is cooking with a large grill, seemingly creating smoke or steam that is being mistaken by two onlookers as a \"monster\" or \"alien.\" The others in the room look on, with one child appearing intrigued by the spectacle. The art style is playful and cartoonish, and there are additional details like a hat and a sandwich, adding to the casual, everyday nature of the scene.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An art gallery becomes a kitchen, as chefs and art enthusiasts interact in a playful commentary on culinary art.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A gathering of art enthusiasts interrupted by the aroma of a grill.\""
+    },
+    {
+        "contest_number": 627,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A moment of quiet in a bustling restaurant.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA couple on a date at a restaurant, oblivious to the world around them.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A quiet conversation in a restaurant.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Modern couple multitasking on phones at outdoor cafe.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts a scene where a man and woman are sitting together at a cafe table, each engrossed in their electronic devices, seemingly ignoring each other's presence. The woman is looking at her phone, and the man is reading a newspaper. In the background, there is a waiter watching over the customers, adding to the ambiance of the cafe."
+    },
+    {
+        "contest_number": 762,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Escaped Animal Chaos: Mouse vs. Turtle in a Barrier Battle\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nInquisitive rodents investigate a series of magnifying glasses.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Racing Around the World: Turtle vs. Mouse\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Suitcase Stackers: A Tale of Pursuits\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mouse Circus: Performing for the Turtle's Appreciation\""
+    },
+    {
+        "contest_number": 495,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Conference Room Chaos: A cartoon of a meeting with a twist.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts a boardroom meeting with a twist: the board members and the chairperson are drawn with a playful exaggeration of their features, while the office workers present are drawn in a more realistic style, contrasting the two groups. This could be a commentary on the different levels of work or the relationship between management and staff.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA group of people engage in a lively discussion, each with a unique posture and expression, suggesting a contentious or passionate meeting.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a group of people having a meeting around a large table, with two individuals observing the meeting through a window or from another room. It appears to be a formal setting, possibly a boardroom or conference room, as suggested by the attire and the presence of a large screen or display.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Staff Meeting: Where the Bosses Sit Behind the Glass Wall and the Employees Discuss How to Break It.\""
+    },
+    {
+        "contest_number": 171,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis black-and-white sketch cartoon depicts a whimsical scene where a woman is in line to order food at a counter, and the chef is wearing a apron. However, what makes the scene peculiar is that instead of the usual items one might expect, such as sandwiches or hot dogs, the chef is preparing numerous pairs of legs. The woman appears to be considering her order, possibly contemplating the surreal menu options. The drawing style and the content suggest that the artist is using humor to comment on absurdity and unexpectedness in everyday situations.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon where a woman is deciding between purchasing two different pairs of shoes, one being a pair of \"ballet flats\" shown by a vendor who is standing behind a counter. The background features a simple illustration of shoes hanging on a wall.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nWoman in front of a carousel of identical women's legs, confused, with a surprised man and a carousel horse behind.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch shows a store attendant and a customer with an exaggerated display of dancing mannequins in the window. The customer appears surprised or amused, while the attendant looks on with an expression of concern or embarrassment. The sketch is stylized with simple lines and facial expressions that convey emotions.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unexpected conversation at the checkout.\""
+    },
+    {
+        "contest_number": 324,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Walk of Shame: A Humorous Take on a Common Business Scenario\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Urban Ram Charges into the Rat Race.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Three men, one with a ram's head, walking away from a brick wall.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Unicorn's Unusual Job Hunt\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nBusinessmen on a sidewalk."
+    },
+    {
+        "contest_number": 703,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the black and white sketch, a man in an apron points to a woman seated at a table, suggesting something to her. Next to the table is an alligator in an open area, and there's a sense of anticipation or concern on their faces. The scene appears to be set in a cafe or restaurant.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe drawing shows an indoor scene with two people at a table. One person, who appears to be a waiter or server, is pointing towards the other person who is seated. The seated person seems to be enjoying a meal or a drink. There is an alligator looking in through the window, adding a whimsical or possibly absurd element to the scene. The overall style is sketchy and evokes a sense of casualness.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the image, a waiter is serving a meal to a woman sitting at a table, with a crocodile or alligator peeking from an open wall panel beside them.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man in a white shirt approaches a seated woman, who is near an alligator coming out from a manhole.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe black and white sketch cartoon depicts a scene where a waiter is pointing at a customer with a concerned expression, as if to say, \"You're next,\" while a crocodile is seen swimming by under the floor, indicating a hidden danger or implication."
+    },
+    {
+        "contest_number": 71,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man in a doctor's coat speaks to an unseen patient while a severed body part looks on, creating a surreal and absurd scene.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An ironic twist on a typical patient consultation in a medical office.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Doctor's Odd Examination\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A doctor and a patient consult in a medical setting.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA doctor's appointment where the patient is missing a head and torso, leaving only the lower body, who is seated with a bandage around the neck."
+    },
+    {
+        "contest_number": 531,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo giraffes in a living room, one standing in front of a doorway and the other sitting on the couch, with a lamp and a television in the background.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Couch-surfing giraffes.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Survival of the Laziest: Two giraffes find comfort in a modern living room.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A surreal scene: two giraffes in a living room, one seated on a couch and the other standing by a television set.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo giraffes in a living room, one lying on the couch and the other standing, facing a TV."
+    },
+    {
+        "contest_number": 152,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical journey through life, illustrated in the simplicity of black and white, with the vastness of the world and the carving of a path ahead.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Exploring the World in an Instant\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Car drives past towering silhouette of the world, emphasizing its vastness in contrast to human-made structures.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An Earthly View: The Journey Continues\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An illogical journey through the world of proportions.\""
+    },
+    {
+        "contest_number": 198,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Escape from the trunk: a challenging journey for one.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Abandoned car with a tied-up man standing in a potted plant on top.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Trouble in a Moving Car\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Helpless passenger on a potty-humored road trip.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mischievous driving antics involving a tied-up individual in a pot on the roof.\""
+    },
+    {
+        "contest_number": 401,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyous Groupwatch: A cartoon of friends sharing a TV moment, with excitement and laughter.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Excitement over a Jets victory.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A group of friends joyously celebrating in front of a television, possibly during a game or an exciting moment, with one holding a book, indicating a mix of interests or a moment of interruption.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyful Celebration: A group of friends cheer excitedly in front of a television, sharing a moment of joy, possibly watching a sports event.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Entertainment Euphoria: A Family Reaction to an Unseen Performance.\""
+    },
+    {
+        "contest_number": 693,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Lab Rats Unimpressed With Scientists.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Animal Testing Lab\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Humor in the Lab: Two Scientists and a Mouse in a Beaker\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo scientists in a lab with their experiments in cages.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a lab with two scientists, labeled \"Doctor Smith\" and \"Doctor Johnson,\" examining rodents in cages. The scene suggests an experimental or research setting."
+    },
+    {
+        "contest_number": 689,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Historical characters encounter a modern traffic officer.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Modern police officer stops time-traveling knight for speeding.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"In a whimsical time warp, a knight meets a modern officer, bridging the gap of eras.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Crossed timelines: Medieval knight meets modern law.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA knight in checkerboard armor rides a similarly patterned horse, encountering a modern traffic officer who holds up a \"STOP\" sign."
+    },
+    {
+        "contest_number": 624,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Life\" and \"Death\" depicted in a humorous contrasting scenario.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Uneasy Burial: Two different perspectives on rest in peace.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Burial in a hurry: a funeral humorously depicted in two panels.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Afterlife Dilemma: Burial vs. Cremation\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image portrays a whimsical scene where a cemetery appears to be floating above a body of water."
+    },
+    {
+        "contest_number": 96,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA pair of human figures, one male and one female, are depicted in a jungle or forest setting, with the female seated on a branch and the male standing behind a tree. Both are adorned with leaves and are styled in a fashion reminiscent of ancient or primitive cultures. The scene evokes a sense of harmony with nature.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Prehistoric Adventure: A Surfer and a Hiker in Ancient Jungle.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo cavepeople, man and woman, surrounded by leafy trees and a big fern.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Early Human Encounters in a Prehistoric Forest.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A scene from the past: Two prehistoric figures, a woman sitting in a tree and a man standing on the ground, with a sense of a bygone era.\""
+    },
+    {
+        "contest_number": 743,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the cartoon, a man with a lion's head is in the process of putting up a picture frame, while a woman looks on, possibly puzzled or surprised. This could be a humorous depiction of a person's struggle with a task, or it could be a metaphorical comment on fitting in, the juxtaposition of a wild animal's head with a mundane household activity, or even a commentary on a cultural or personal identity crisis.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man and woman in a living room scene with the woman opening a door and the man in the foreground appears to be a comical anthropomorphic cat, possibly representing a man's mood or reaction, as he exits a room.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A surreal cartoon where a lion-like creature leaps out of a picture frame into a room with a startled woman and a somewhat amused bystander.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprised by the Wild Side of Life\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts a humorous scene where a person is humorously transforming into a tiger while holding a frame, with another person standing by in shock. The artist is credited with the initials \"PC VEY.\""
+    },
+    {
+        "contest_number": 36,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo men engaged in a conversation, one more relaxed with his arms crossed, and the other with a larger belly, holding his stomach as if in discomfort or laughter.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Comic Strip: A conversation between two men, one standing confidently with arms crossed, the other sitting with a noticeably protruding belly and hand on it, highlighting a humorous contrast in body language.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A conversation between a businessman and his pregnant self.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a cartoon of two men, one who appears to be balding and has his arms crossed, and another who is standing with his hand on his stomach, indicating he may be overweight.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Unflinching Stare: A Perspective on Body Image\""
+    },
+    {
+        "contest_number": 412,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyful Encounter on a Tiny Isle: A clown and a mermaid, two worlds collide.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Eccentric Island Encounter.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA flamenco dancer and a clown stand on opposite ends of a desert island.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical beach scene with a fashionable lady and a jovial clown.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unusual tropical encounter.\""
+    },
+    {
+        "contest_number": 13,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A candid moment with a tennis player and an unexpected guest.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA couple in bed with sports equipment and a lamp.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Unexpected Date: A Love Story Unravels\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA stylized cartoon of a couple with a sports theme in a domestic setting.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A playful moment between a man and a woman in a room with a lamp and a sports ball.\""
+    },
+    {
+        "contest_number": 170,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo men in office attire, one holding a turkey, standing by a bulletin board with paperwork.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two men, one with a shocked expression, the other holding a roasted chicken, standing in an office with a corkboard and papers in the background.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprise: A Thanksgiving Turkey!\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Unexpected Turkey: An Office Humor Moment\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Turkey Trot: Two office workers' unexpected holiday encounter.\""
+    },
+    {
+        "contest_number": 507,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Silliness: When Work Meets Surfboard\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Stress: A Visual Metaphor\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprise Interview: When an unexpected skill lands a job.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An office cartoon: a coworker in a bind with a tie.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Betrayed by the Wi-Fi signal, a man loses his balance.\""
+    },
+    {
+        "contest_number": 670,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo cyclists race against each other on a bridge, with a cityscape behind them.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Friendly Cycling Competition in the City\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Friendly Competition - A sketch of two bicyclists enjoying a ride together on a city street with a cityscape in the background.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Race to the cityscape.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Racing against the city skyline backdrop.\""
+    },
+    {
+        "contest_number": 137,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A humorous exchange between two men, one standing and holding an 'X' sign, while another, sitting and holding a book, seems to be receiving the 'X'. The standing man's tie points to the 'X', implying a correction or mark on the sitting man's book or work.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Boss's Pep Talk\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Professor and Student Interact\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan stands on sofa, extends arm to elderly, who sits and accepts handshake.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon shows a man standing on the couch, holding a piece of paper with an 'X' on it, as if he's presenting or emphasizing the 'X' to another man who is sitting comfortably and looking at the presenter. The image seems to suggest a comical or absurd situation, possibly in a job interview or meeting context."
+    },
+    {
+        "contest_number": 141,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Heavens Above: An Angelic Confrontation.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A dichotomy of heavenly and hellish angels on clouds.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nGood and Evil in a Heavenly Debate.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAngels on either side, one with dark, one with light, sharing a cloud.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Angel and Devil on Shoulders\""
+    },
+    {
+        "contest_number": 722,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A piano falling from the sky in front of a house\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Unbearable Weight of Creativity\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Crushing Collapse: A House Devastated by a Falling Piano.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The House of Piano\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts a surreal scene with a broken-down piano, from which emerges a stream of falling debris that is destroying a house. Two people stand at a safe distance, observing the destruction. The word \"BURNS\" is visible, possibly indicating the artist's signature or a label for the sketch."
+    },
+    {
+        "contest_number": 49,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan at bar, engrossed in phone, oblivious to friends, and bartender's antics.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Unbearable Wait for Service: A comical depiction of patience and bartender service.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Society's Obsession with Status and Excess at a Bar\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cartoon of a man on the phone at a bar, surrounded by three men observing him.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Taking a call while hanging out at a bar with friends.\""
+    },
+    {
+        "contest_number": 560,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Underground Refuge: A Refugee Sits in a Makeshift Shelter in Front of a Barbed Wire Fence, as Two Others Look on from a Distant Cave.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Solitude: A cave serves as a shelter for one, while others sit outside in the cold.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Escape from the Cave: A Journey Through Despair and Hope.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Exploration and discovery in a surreal landscape.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Three individuals huddle against a structure in a barren landscape.\""
+    },
+    {
+        "contest_number": 440,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nBaseball players watching from the dugout.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Waiting Game: Baseball Players in the Dugout.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nBaseball players on bench, watching from dugout, cartoon style.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Baseball Players in the Dugout.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nBaseball players in the dugout, waiting for their turn at bat."
+    },
+    {
+        "contest_number": 157,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA group of people sitting comfortably on a porch, stargazing at a night sky filled with celestial bodies.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A quiet evening of stargazing with friends.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Stargazing on the Lawn: A Family's Night of Wonder\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis black-and-white sketch cartoon portrays a serene scene of three people seated on a bench, watching planets in the night sky, symbolizing relaxation and cosmic wonder.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon is a simple, black and white sketch of a relaxed indoor setting where a group of friends or family are sitting together on couches, enjoying each other's company and viewing a starry night sky. The sketch has a minimalist, yet cozy feel, likely depicting a quiet moment of shared leisure."
+    },
+    {
+        "contest_number": 648,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Intrigue in the office: The curious interaction between a woman with a typewriter and a man with a cane.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Exchange: The Intersection of Art and Technology\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Business transaction between a man in a suit and a woman in a swimsuit, symbolizing an unexpected or inappropriate interaction in a business setting.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a woman sitting at a typewriter, with papers flying out, and a man in a top hat and coat, holding a cane and a piece of paper as if presenting it. It's a humorous take on a busy work scenario with a vintage touch, highlighted by the classic typewriter and the man's formal attire.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon features a man with a top hat and cane, who appears to be from a bygone era, and a woman wearing modern office attire. The woman is handing the man a document or piece of paper from a typewriter, and he is returning it with a gesture that suggests disdain or refusal. The illustration might be commenting on the contrast between classical and modern office work or the perception of the past versus the present in the workplace. The artwork is signed by \"P.C. Vey,\" indicating the artist responsible for the sketch."
+    },
+    {
+        "contest_number": 674,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Man and dog encounter a menacing creature.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man with his dog facing a menacing creature on a cliff.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A suspenseful encounter: Man versus Beast.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan and dog versus werewolf.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Innocence versus Instinct: A Man, His Dog, and a Wolf's Encounter\""
+    },
+    {
+        "contest_number": 343,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Anachronism: Past and Present Collide\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Ancient meets modern: a chariot-pulled carriage in front of a futuristic car on a modern street.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Anachronism: When History Meets the Future\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Ancient meets modern: a caricature of urban life.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn a black-and-white sketch, a man and woman stand, intrigued by a horse-drawn carriage parked on the side of a street. The carriage features multiple heads of horses attached to it. A sleek car is parked ahead of them."
+    },
+    {
+        "contest_number": 687,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Unexpected Encounter: A cartoon where an oversized nose takes center stage, eavesdropping on a couple's conversation at a sidewalk cafe.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Intimidation at the Bar\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA surrealist cartoon depicting a giant disembodied head with large eyes and a mouth on a building, next to two human-sized characters seated at a table, one holding a wine glass, seemingly unfazed by the extraordinary sight.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Waiter, I'm not feeling the 'special of the day'!\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A surreal moment at the bar: a giant face looms over the patrons, who appear unbothered and continue their conversation.\""
+    },
+    {
+        "contest_number": 193,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Therapy Session: Unraveling the Tangled Web of My Life\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Casual Conversation in Comfort.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man and woman having an animated conversation in a living room.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An animated conversation in a living room.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis is a black and white sketch cartoon that features two characters, a man sitting in a chair on the left and a woman standing on the right, in what appears to be a domestic interior setting. There is a lamp and a mug on a table between them. The art style is somewhat abstract, with a loose and expressive line. In the lower right corner, the signature \"Victoria Roberts\" indicates the artist's identity."
+    },
+    {
+        "contest_number": 559,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Leap of Faith: A Pirate's Adventure\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An amusing maritime scene featuring a ship and a person who appears to have fallen from it, captured in a playful, cartoon-like style.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Daring Rescue at Sea: A Timeless Tale\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unexpected moment on the high seas!\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Whale of a Tale: An Unexpected Adventure on the High Seas\""
+    },
+    {
+        "contest_number": 209,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon depicting a social scene, where a man in a dress shirt is conversing with a bartender, and another man in casual attire is walking past, with a distinctive detail of a bird perched on his shoulder.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"In the Line at the Bar\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A gathering of friends at a bar, with one individual standing out in humorous contrast.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Bartender Serving at Bar as Customers Engage in Conversation.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAn odd-looking man in a bar, looking over his shoulder while a bird sits on his head, amid a group of ordinary men at the bar, standing at a counter with bottles and glasses."
+    },
+    {
+        "contest_number": 181,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA lively cartoon scene with a crane, workers, and a giant brick building being constructed.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Construction Site Mishap\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA construction scene with workers building a stone wall and crane in a desert environment.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Puzzled Archaeologists Discovering Ancient Structures\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mission Improbable: An Adventure in Stonehenge\""
+    },
+    {
+        "contest_number": 92,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan and woman standing outside a shop, unaware of a giant penguin inside.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo people on a sidewalk, oblivious to a giant penguin in the background.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn this cartoon, a man and a woman stand in front of a shop window, engaged in what appears to be a serious conversation. The shop window displays a penguin, which seems to be the point of interest, perhaps suggesting a topic of discussion or an unusual sighting. The artist's signature is at the bottom right.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man and woman converse on a city street, while an amusingly large penguin eavesdrops.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA person standing outside a window is holding a cup and talking to another person, with an emu standing behind the window."
+    },
+    {
+        "contest_number": 407,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Art appreciation in a minimalist setting.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A room with a window and a group of people inside, looking out at two others who are leaving.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Sandy Situation: A room full of people sitting on a sandy floor, creating an unusual indoor beach scene.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Museum visitors in front of an artwork, their expressions reveal their diverse reactions.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Socializing In A Tub: A Humorous Look At Corporate Team Building\""
+    },
+    {
+        "contest_number": 221,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Chaos in the Kitchen: A Comic of Mishaps and Mischief\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A chaotic kitchen scene with an orchestra playing amidst the chaos, featuring chefs, chefs preparing meals, and chefs cooking.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a chaotic kitchen scene with a group of men wearing chef hats and aprons, seemingly engaged in a culinary experiment that has gone awry. There are various kitchen appliances and utensils scattered around, along with a fish that appears to be floating, suggesting a humorous or absurd event has occurred. The cartoon likely conveys a message about kitchen mishaps or the perils of experimental cooking.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Kitchen Chaos: A Nutty Orchestra Performance\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Cooking Chaos: A Symphony of Spills and Strains\""
+    },
+    {
+        "contest_number": 253,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Tale of Two Friends on a Journey.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical scene of two men in traditional attire engaging with a horse.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch is titled \"Hitching a Ride\" and it features two people: one is riding a horse and the other is carrying a briefcase. The horse appears to be reluctant and looks like it's kicking its leg, while the rider is holding on tightly with a worried expression. The person carrying the briefcase seems to be taking a break or contemplating the situation. The artwork is by the artist \"Catherine Wilson\".",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts two characters, possibly a witch and an old man, standing on either side of a surprised horse. The scene suggests a humorous or surreal encounter.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man on a horse meets another man on a path in a quaint, old-fashioned setting."
+    },
+    {
+        "contest_number": 642,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Pancake Delivery: A slice of life moment.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unexpected conversation on a city street.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Coincidental Encounter: A street scene where a vendor and a passerby share an unexpected moment.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A man in a chef's hat presents a dish to a woman outside a building, suggesting a culinary exchange or possibly a street food scene.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis is an illustration of a cartoon scene featuring a woman walking past a bakery and a baker standing by the window. The bakery's window showcases a delicious-looking cake."
+    },
+    {
+        "contest_number": 336,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Comedian Ted stands before a laughing audience in his signature suit and tie, pointing upwards, where a character in lingerie is seen sitting in a relaxed pose on a giant screen. The character is surrounded by a halo of light, possibly symbolizing success or fame.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man in a suit points at a screen, where another man is shown in drag, saying \"TED.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon depicting a man in a suit pointing at another man dressed in underwear and fishnet tights on a stage, suggesting a scene from a business or seminar event with an unexpected twist.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA humorous panel with a man gesturing towards a woman sitting on a stage, seemingly presenting something; the audience is unaware of her lingerie-clad appearance.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoonist points at a character on stage, who is depicted in lingerie."
+    },
+    {
+        "contest_number": 639,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Catching a Princess: A Fairy Tale in Progress\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Rescue at the Tower: A Cartoon Adventure\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts a person, possibly a man, with his arms outstretched, seemingly reaching upwards. Next to him stands a tall tower that resembles a chimney with a pointed top. The tower casts a shadow on the ground, and there's a flag fluttering above it. In the background, there are a few clouds. The overall style is loose and sketchy, with expressive lines that convey a sense of motion and story.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA princess dangling from a tower reaches for a ladder held by a prince, evoking the classic fairy tale rescue.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA rescue scene with a character hanging by a rope from a castle tower, another character looking on from below."
+    },
+    {
+        "contest_number": 422,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two turtles in a woodland setting, with one carrying a stack of books, embarking on an adventure into the water.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Turtles Cross a Pond\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two turtles navigate a stream, one hauling a precarious stack of items atop its shell.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Crossing a river with a stack of boxes on their backs.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene of turtles on a tree branch, with one turtle appearing to carry an acorn, set in a forest with a river nearby."
+    },
+    {
+        "contest_number": 143,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Confusing Elevator Encounter\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image shows two men in business attire walking down a hallway with doors on either side. One man is carrying a suitcase, and the other is in a suit with glasses. The central figure is an anthropomorphic piece of office equipment, resembling an ink or pencil holder, standing upright and exuding a human-like aura. It appears to be saying something to the men, though it has no mouth. The cartoon seems to playfully anthropomorphize office supplies, creating a whimsical scene within an otherwise ordinary business environment. The signature \"PCVEY\" is visible in the lower right corner, indicating the artist's mark.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene where a man in a suit, carrying a briefcase, walks by another man who has sprouted long, slender limbs resembling a jellyfish from his head and hands, leaving a man in the background bewildered.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprise at the office!\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Humor: A Comical Twist on a Typical Office Situation\""
+    },
+    {
+        "contest_number": 218,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Relaxation Time: One Man Lies Down for a Spa Experience, While the Other Man Remains in the Bathtub\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe caption for this black-and-white sketch cartoon could be \"Soaking in a bath and still on duty.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan reading book, oblivious to steamy soak below.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Relaxation Revisited: A man lounges on a chair above a man in a bath, both enjoying their downtime.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Relaxation levels are over the top!\""
+    },
+    {
+        "contest_number": 426,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon of a man enthusiastically playing a guitar, possibly in a bedroom, to the surprise of a person lying in bed.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a man, who appears to be in motion, possibly dancing or performing, with a guitar in the foreground. There is a surprised or shocked expression on the face of a woman lying in a bed. The room looks like a bedroom with a dresser and a wall clock. The overall scene suggests a spontaneous or unexpected performance in a domestic setting.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Unexpected Jam Session\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Morning Blues\"\n\nCaption: \"Enthusiasm vs. Reality\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA surprised child on a bed watches in amazement as a man energetically air-guitar solos in the bedroom doorway."
+    },
+    {
+        "contest_number": 62,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a lively scene where a woman is joyously leaping in the air with her arms raised in triumph. In the background, a man seated at a desk looks on, his face neutral. The room is furnished with a desk, a chair, and a window with curtains, providing a realistic setting for the characters' exaggerated expressions of joy and neutrality. The name \"Shanahan\" is signed in the bottom right corner, indicating the artist or creator of the cartoon. The overall mood of the cartoon is one of celebration and energy.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon depicting an energetic interviewer playfully interacting with a potential employer at a formal desk setup.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Enthusiastic Entrance\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyful Celebration in the Office\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyful Celebration: A Man Rejoices as He Receives Good News.\""
+    },
+    {
+        "contest_number": 432,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA humorous illustration showing three identical men in cages, each in a different mood or situation, with one of them interacting with a dog outside. The artwork implies a playful take on the idea of societal roles and individual freedom.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the image, there are four caged figures each in a separate cage:\n\n1. On the far left, there is a man sitting comfortably with his feet up, reading a book, seemingly oblivious to his confinement.\n2. The second from the left shows another man also reading a book, with a cup on his lap, as if enjoying a leisurely moment.\n3. The third figure is a man sitting with a contemplative pose, holding a book, perhaps reading or deep in thought.\n4. On the far right, a dog is seen, looking out of its cage with an expression of curiosity or longing.\n\nThe image suggests a commentary on different states of consciousness or levels of awareness within confinement. The artwork is signed \"Shanahan,\" which could be the name of the artist.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Three identical men in cages: one reads, one listens, and one sits; with a fourth cage containing a dog.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Three individuals in three separate cages, each in a different situation: reading, sitting alone, and interacting with a dog.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A comical scene depicting three people, each behind a barred window with their own unique expressions and items, humorously juxtaposed with a dog sitting in the background without bars.\""
+    },
+    {
+        "contest_number": 272,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Speeding truck with passengers and flying objects, captured in motion.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Rapid Ride: A Truck Full of Life\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cartoon depicting a four-wheeled adventure with excitement and speed.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cartoony pickup truck and its passengers moving at high speed.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Excitement on the road: a pickup truck's adventure\""
+    },
+    {
+        "contest_number": 160,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"House for Sale: The Shocking Truth\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA real estate scene with an unusual painting of a chaotic scene attracting attention.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch shows two real estate agents and a potential buyer outside a house for sale.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThree prospective home buyers outside of a house with a spooky painting on the wall, with a \"For Sale\" sign in front.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Not-So-Easily Impressed Home Buyers.\""
+    },
+    {
+        "contest_number": 337,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Waiting by the Shores\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nFlood in the city: A boat for two, a building submerged, and life goes on.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Island Escape: A Dreamy Getaway Under the Sun.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene of two figures enjoying a tropical island paradise, complete with a palm tree and a thatched hut, all surrounded by a calm sea.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Island Escapes: Finding solace on a floating oasis\""
+    },
+    {
+        "contest_number": 321,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cozy bedroom scene with a hidden surprise.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cozy bedroom scene with playful shadows.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nSleepy Slumber: Two figures rest in a cozy room, surrounded by classic furnishings and an unexpected, whimsical carpet.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a cozy bedroom scene with a neatly made bed, nightstands with lamps, a chair, and a vase with flowers. A small dog is sleeping on the bed, and a child is lying in it, looking sad or possibly sick. The room has a picture on the wall, and there are some papers scattered on the floor, giving the impression of a lived-in space. The art style is simple and childlike, with bold lines and shading that gives depth to the scene. The overall atmosphere is one of comfort and quiet introspection.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cozy bedroom scene with an amusing twist.\""
+    },
+    {
+        "contest_number": 79,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"City Life: Perspective and Reflection\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Window Shopping,\" two men outside a building with multiple storefronts.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo businessmen on a sidewalk, looking in identical windows with one man peering out from each.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Businessmen pause at an oddly slanted building corner, looking up at the reflection of a third man in the mirrored windows.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Window World: A Tale of Sightlines and Connections.\""
+    },
+    {
+        "contest_number": 555,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Underwater Friendship: Two sharks share a tender moment in the depths of the sea.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Underwater Antics: Two sharks share a light-hearted moment amidst the depths.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Competitive Friends: A playful moment of sibling rivalry in the deep sea.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Shark Encounter: Two sharks meet in the vast ocean, with one playfully chasing the other.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nSharky's Surprise: Two sharks encounter an unusual underwater scene."
+    },
+    {
+        "contest_number": 25,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unusual gathering in the hallway.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Unexpectedly, a spaceman joins the office casual gathering.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene featuring a person in an astronaut suit standing in an office setting, interacting with business professionals.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Aquaman meets the boardroom.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surviving the Office Jungle\""
+    },
+    {
+        "contest_number": 224,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A chaotic meeting scene with attendees in various states of chaos, including one person sleeping, one holding a book upside down, and another seemingly being held upside down.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Busy Boardroom: The Many Faces of a Business Meeting\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Office Chaos\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Board Meeting Chaos: A caricature of a management meeting gone awry.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Overworked employees rest on the floor in a humorous scene of workplace fatigue.\""
+    },
+    {
+        "contest_number": 591,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An illustrated comic strip featuring two bearded men, one inside an oversized bathtub and the other reclined in a chair. The scene is drawn in a minimalist style with a hint of a modern interior, possibly in a lobby or waiting area, as suggested by the framed pictures hanging on the wall.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon shows a man seated comfortably in a chair, while another man, wearing glasses and appearing exhausted, is sitting in a tub. The tub is placed oddly in the middle of the room, with a window above it. The room has framed pictures on the wall. This unusual setting suggests a situation where a man is being interviewed or observed in a relaxed and non-traditional environment, possibly as a metaphor for a candid or informal interview.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unexpected interview in a bathroom.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo men in an unusual encounter; one lounges in a tub, the other reclines in a chair.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Relaxed Conversation: One Man in Bathtub, One in Chair\""
+    },
+    {
+        "contest_number": 725,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical scene with a bearded character holding a bow and a character in shorts standing near a tree, with a majestic mountain in the background.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical moment in nature with two unusual characters.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAn old man holding a bow and arrow, and a child watching in a pastoral setting.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Tale of the Wild West in Modern Times.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image shows a cartoon of two characters in a rural setting, with one carrying a bow and arrow. It appears to be a simple, hand-drawn sketch with a humorous or whimsical style."
+    },
+    {
+        "contest_number": 322,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo cowboys on horses in the desert, one chasing a bug.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Buggy Cowboy and his strange critter.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Tall Tale Ride: A whimsical cowboy riding a giant ant across the desert landscape.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surreal Western Adventure\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unusual journey: two cowboys ride an insect-sized horse through a desert landscape\""
+    },
+    {
+        "contest_number": 214,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe drawing depicts a cartoon of a man sitting in a desk chair, with a large table in front of him. There is an empty chair on the other side of the table. The man appears to be in an office or study setting, indicated by the presence of a picture on the wall and a window in the background. The overall mood of the image seems to be one of waiting or contemplation. The sketch is done in a monochromatic style, with only black and white tones.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon portrays a tense business meeting in a dimly lit office with high windows.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Interview in an Office\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Interview Room\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Job Interview in the Office\""
+    },
+    {
+        "contest_number": 688,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe sketch depicts two central figures, a man and a woman, engaged in what appears to be a conversation or interaction. The man is wearing a military uniform adorned with various medals and decorations, suggesting a significant role or rank within the military. The woman is elegantly dressed in a black dress, holding a wine glass and looking at the man, perhaps with an air of surprise or interest. The overall scene suggests a social or formal event where the man is being recognized or celebrated. The art style is reminiscent of caricature, with exaggerated features and a loose, playful line that gives the image a humorous and whimsical quality.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An awkward moment: Civilian and Military, or the art of social graces.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Socializing at an event: A woman in a dress and pearls, holding a wine glass, conversing with a man in a military uniform.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A social gathering with contrasting characters, one possibly in uniform and the other in formal attire, engaged in conversation.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A social gathering where a man in uniform shares a moment with a woman.\""
+    },
+    {
+        "contest_number": 127,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Fishing for a friend: The story of a loyal canine and its fishing companions.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Fishing for a catch: Two cartoon figures enjoy the simple pleasure of fishing in a serene setting with a mountain backdrop and a cozy cabin.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nFishing trip with friends in the outdoors, under a tent and amidst nature.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Camping Adventures: A cartoon sketch of two campers and their unexpected visitor.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Fishing Outing at the Outhouse\""
+    },
+    {
+        "contest_number": 445,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Motor Mouth: A car with teeth terrifies shoppers in a car lot.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Surprise Encounter: A whimsical scene where a car with an unexpected creature design shocks onlookers.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Walking the Beast: A humorous take on a car dealership encounter\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Three people looking at a car with anthropomorphic features in a garage.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Excited car owners meet the monster car they just won.\""
+    },
+    {
+        "contest_number": 347,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis cartoon shows a humorous scene where a man and a woman are in bed, sharing a moment, but the man's face is hidden by a man in a suit and a hat with a black shadow on his face. The woman is oblivious to the man behind the man.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man and woman reclined in bed, startled by a sudden appearance of a menacing figure at their feet.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A cozy moment captured in a black-and-white cartoon.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the sketch, a couple is in bed facing a ghostly figure, suggesting a supernatural encounter or spooky situation.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cozy scene of a couple in bed with an unexpected visitor."
+    },
+    {
+        "contest_number": 354,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Innovative Spa Treatment: A man with plant-like appendages undergoes an unusual spa session, observed by a fascinated staff member.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Doctor's Surprise Patient\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Surreal Encounter: A man with leaves for hair and a flower for a skirt sits next to a doctor, seemingly unfazed by the peculiar sight.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man with leaves sprouting from his back, like a tree, visits a doctor's office.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical scene of an examination where the patient's leafy attire sparks conversation between the two.\""
+    },
+    {
+        "contest_number": 735,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nGroom gazing at the wedding cake, reflecting on his married life ahead.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The cake has a message that can't be read from the groom's perspective.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man in a suit stands next to a bride and groom figurine on a cake, appearing to be looking away from the celebration.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nMan standing next to a wedding cake with a bride and groom on top of it.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man with a bow tie stands behind a wedding cake adorned with a small couple, indicating his role as the groom at his own wedding."
+    },
+    {
+        "contest_number": 227,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A tense office scene, where a coworker holds a resignation letter in front of the boss's desk.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Boss is Always Watching.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Chaos: A man attempts to stop a fire with a single bucket, while another looks on.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Boss is a janitor?\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Elevated Perspective: A boss overlooks a subordinate's work, symbolizing scrutiny and oversight.\""
+    },
+    {
+        "contest_number": 612,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nIn the sketch, a man walks by a crime scene where three bodies are laid out in chalk outlines. Two officers and a civilian look on.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA grim scene unfolds with police and a solitary detective in the background, overseeing an investigation marked by chalk outlines on the ground suggesting multiple victims. The setting is urban, with buildings that imply the location could be a business district.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Police and bystanders gather at a crime scene with an unusual number of chalk outlines.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Police investigation scene with chalk outlines and bystanders.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Scene of the Crime: A silent story of a city's untold mystery.\""
+    },
+    {
+        "contest_number": 380,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Flood's Famous Castaways\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Ancient Mariners: A Modern Twist\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A boat of unlikely passengers in a whimsical setting.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Intriguing Journey: A Floating Giraffe Parade\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A Flood of Giraffes\": In the biblical flood tale, Noah's ark might have been a bit busier than we imagined."
+    },
+    {
+        "contest_number": 759,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo fish swimming, with bubbles rising to the surface and a school of small fish overhead.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA cartoon showing two fish in water with bubbles and plants, with one fish seemingly speaking or expressing an idea.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"In the Aquatic Realm: A Whimsical Interlude\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Fish in a Pond: A Whimsical Sketch.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two fish and a school of small fish in a pond with reeds and plants, illustrated in a sketch style.\""
+    },
+    {
+        "contest_number": 318,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Birds of a feather, except for that massive turkey...\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Life: A Bird's-Eye View\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An awkward encounter in the office\".",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts a giant rooster walking between two desks with people working, suggesting a chaotic workplace scenario, possibly indicating that something \"rooster-related\" is causing an unusual event or disruption. The cartoonist's signature, \"Glossen,\" is visible, indicating the artist's identity.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Office Birds: The Rise of the Remote-Working Roost\""
+    },
+    {
+        "contest_number": 679,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Cactus Kings & Queen: An Unexpected Gathering\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Ancient royalty and warrior meet in a modern context,\" with cacti standing in as the \"roast\" in \"coffee\".",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThis cartoon sketch depicts an ancient king seated in a throne of cacti, surrounded by more cacti, facing an armored warrior. The image also contains a signature in the bottom right corner, reading \"D@.\" The scene seems to portray a dialogue or a confrontation between the two figures, which could be interpreted as a humorous take on historical encounters or a playful twist on royalty and warrior characters.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nAncient Royalty Encounter with Modern Warrior.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Ancient Encounter: A Wise King and a Fearless Warrior Meet\""
+    },
+    {
+        "contest_number": 503,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical scene: Santa Claus, bundled up, is pulled by a reindeer-driven sleigh full of presents, leading a herd of antlered deer into a cozy village nestled among snow-capped mountains.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A reindeer-drawn sleigh with a Christmas theme, featuring a cheerful Santa Claus and reindeer.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Joyful Christmas scene with Santa Claus riding in a sleigh drawn by reindeer against a snowy village backdrop.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A reindeer-drawn sleigh carrying Santa Claus.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA whimsical winter scene featuring a reindeer sleigh, with St. Nick on a sled."
+    },
+    {
+        "contest_number": 232,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Gathering: A social scene unfolds in a stylish restaurant where people are engaged in various activities, be it dining, conversing, or enjoying the company. The atmosphere is chic and relaxed, capturing the essence of urban leisure and camaraderie.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Meeting: A satire on modern office life.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A gathering of intellectuals engaged in conversation over drinks and a board game.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A social gathering of six individuals engaged in various activities around a dinner table, with a mix of socializing, chess play, and modern technology use.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Socializing and Leisure Activities\""
+    },
+    {
+        "contest_number": 626,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Mid-air chaos with a falling horse and its startled rider.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An Unplanned Ride: A Moment of Chaos\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA dramatic moment captures a cowboy falling off his bucking bronco during a rodeo event.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man and his horse in an unexpected and amusing tumble.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man is thrown into the air in mid-ride as his horse leaps over a fence with wild abandon."
+    },
+    {
+        "contest_number": 714,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nTwo people in a pool reaching out to a beach ball, with a cat perched on it above them.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Cat's Balloon Escape\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA playful scene: a cat on a ball of yarn, and a man and woman in a pool reaching out to it.",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A playful interaction: A cat on a ball is being pushed into the pool by a person, as another person watches the scene unfold.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Curious Cat Causes Chaos in Swimming Pool\""
+    },
+    {
+        "contest_number": 158,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"The Lonely Stroller on the Beach\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Standing Out from the Crowd: A Cartoon Perspective.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Man standing on beach with shadow of other people around him.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Reflective moment on the beach.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man stands on a beach, observing six other men's heads buried in the sand."
+    },
+    {
+        "contest_number": 373,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A group of people in a meeting room, drawn in a simplistic, black-and-white style, with exaggerated expressions and postures.\"",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A group of naked figures in a room, some standing, some sitting, with one looking out the window onto a cityscape.\"",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Modern Office Meeting - Nude and Unabashed\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts a group of naked characters, presumably having a business meeting around a conference table in an office setting. The artwork is monochromatic and has a sketch-like quality. The characters are engaged in various activities such as reading, speaking, and standing. The room is furnished with office chairs and has large windows with a view of a cityscape. The style is reminiscent of a satirical or humorous illustration, often used to comment on corporate culture or social situations.",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe cartoon depicts an office meeting with five people, all appearing to be without clothes. The man standing is facing away from the group and is looking out of the window, where he can see a cityscape. Everyone else is sitting around a table, with some holding cups and one person using a cell phone. The setting suggests a formal or corporate environment, but the absence of clothing adds a humorous or satirical twist to the scene."
+    },
+    {
+        "contest_number": 719,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThree people are engaged in a conversation in front of a laundry mat.",
+        "exp2": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nThe image depicts three characters standing outside a building with a large, comically oversized washing machine stacked on top of another, with a dryer on top of the stack. The characters appear to be engaged in a discussion or observation of the unusual situation. The building and the street scene around them are simple and stylized, giving the cartoon a humorous and exaggerated quality.",
+        "exp3": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Friends Discuss a Clothes Dryer at a Laundromat.\"",
+        "exp4": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"An unusual sight: two washing machines, one with a view.\"",
+        "exp5": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Two people in conversation outside a building with a large washing machine.\""
+    }
+]

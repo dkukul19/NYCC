@@ -1,0 +1,22 @@
+[
+    {
+        "contest_number": 566,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A serene maritime scene featuring a man with a beard, wearing a top hat and holding a cat, seated on a bench, next to a barrel. In the background, two other men are standing on a pier.\""
+    },
+    {
+        "contest_number": 186,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"Moses on Mount Sinai.\""
+    },
+    {
+        "contest_number": 571,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"At a whimsical cafe where an anchor serves as a light fixture.\""
+    },
+    {
+        "contest_number": 704,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\nA man waits outside an elevator while its occupants engage in a conversation inside, reflected in the elevator doors' mirror images."
+    },
+    {
+        "contest_number": 542,
+        "exp1": "<|im_start|> system\nAnswer the questions.<|im_start|> user\n \nCaption the black-and-white sketch cartoon shortly.<|im_start|> assistant\n\"A whimsical scene with a woman in a grand collar and ruffles, flanked by two men in classic attire, set against the backdrop of a quaint village, sketched by a talented artist, signifying the beauty of art and fashion throughout history.\""
+    }
+]
